@@ -3,4 +3,6 @@
 A new Flutter project.
 
 # Screenshot
-<img src="https://github.com/ShakyaSangam/Flutter_UI/blob/master/screenshot/Screenshot_20200722-195422.jpg" width="180" height "180">
+<img src="https://github.com/ShakyaSangam/Flutter_UI/blob/master/screenshot/Screenshot_20200722-195422.jpg">
+<img src="https://github.com/ShakyaSangam/Flutter_UI/blob/master/screenshot/Screenshot_20200722-195425.jpg">
+<img src="https://github.com/ShakyaSangam/Flutter_UI/blob/master/screenshot/Screenshot_20200722-195527.jpg">
